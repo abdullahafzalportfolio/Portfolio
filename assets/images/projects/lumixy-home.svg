@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" role="img" aria-label="Lumixy Shopify storefront homepage preview">
+  <defs>
+    <linearGradient id="lx-hero" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#141A2B"/><stop offset="1" stop-color="#2A2140"/></linearGradient>
+    <radialGradient id="lx-glow" cx="0.72" cy="0.4" r="0.5"><stop offset="0" stop-color="#F5B301" stop-opacity="0.6"/><stop offset="1" stop-color="#F5B301" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="720" height="480" fill="#FBF7EF"/>
+  <!-- top bar -->
+  <rect width="720" height="48" fill="#141A2B"/>
+  <circle cx="30" cy="24" r="8" fill="#F5B301"/><text x="46" y="29" fill="#FBF7EF" font-family="Georgia, serif" font-size="16" font-weight="700">Lumixy</text>
+  <g fill="#AEB2C4" font-family="system-ui, sans-serif" font-size="10.5"><text x="300" y="28">Shop</text><text x="348" y="28">Solar Lights</text><text x="430" y="28">Outdoor</text><text x="494" y="28">About</text></g>
+  <rect x="556" y="13" width="96" height="22" rx="11" fill="#20263A"/><circle cx="570" cy="24" r="5" fill="none" stroke="#8E94A8" stroke-width="1.5"/><line x1="574" y1="28" x2="578" y2="32" stroke="#8E94A8" stroke-width="1.5"/><text x="586" y="28" fill="#8E94A8" font-family="system-ui, sans-serif" font-size="9">Search</text>
+  <rect x="664" y="13" width="44" height="22" rx="11" fill="#F5B301"/><text x="686" y="28" text-anchor="middle" fill="#141A2B" font-family="system-ui, sans-serif" font-size="10" font-weight="700">Cart</text>
+  <!-- hero -->
+  <rect y="48" width="720" height="196" fill="url(#lx-hero)"/><rect y="48" width="720" height="196" fill="url(#lx-glow)"/>
+  <circle cx="556" cy="150" r="40" fill="#F5B301"/><circle cx="620" cy="188" r="24" fill="#FFD65A"/><circle cx="636" cy="112" r="15" fill="#FFE9A6"/>
+  <text x="40" y="112" fill="#FBF7EF" font-family="Georgia, serif" font-size="30" font-weight="700">Light up your nights,</text>
+  <text x="40" y="146" fill="#F5B301" font-family="Georgia, serif" font-size="30" font-weight="700">powered by the sun</text>
+  <text x="40" y="172" fill="#C1C5D6" font-family="system-ui, sans-serif" font-size="12">Solar decor that charges by day and glows till dawn.</text>
+  <g><text x="40" y="204" fill="#FFD65A" font-family="system-ui, sans-serif" font-size="12">★★★★★</text><text x="112" y="204" fill="#C1C5D6" font-family="system-ui, sans-serif" font-size="11">4.9 · 2,400+ reviews</text></g>
+  <rect x="40" y="214" width="140" height="30" rx="15" fill="#F5B301"/><text x="110" y="234" text-anchor="middle" fill="#141A2B" font-family="system-ui, sans-serif" font-size="11" font-weight="700">Shop bestsellers</text>
+  <!-- performance chip (technical) -->
+  <g transform="translate(596 60)"><rect width="96" height="30" rx="8" fill="#0F1626" stroke="#2A3350"/><circle cx="18" cy="15" r="8" fill="none" stroke="#2FD6A0" stroke-width="3"/><text x="34" y="13" fill="#FBF7EF" font-family="system-ui, sans-serif" font-size="9">Speed</text><text x="34" y="24" fill="#2FD6A0" font-family="system-ui, sans-serif" font-size="10" font-weight="700">1.8s · 98</text></g>
+  <!-- product grid -->
+  <g font-family="system-ui, sans-serif">
+    <g transform="translate(40 268)"><rect width="196" height="180" rx="12" fill="#fff" stroke="#EDE4D2"/><rect x="14" y="14" width="168" height="96" rx="8" fill="#FDF1D2"/><circle cx="98" cy="62" r="26" fill="#F5B301"/><rect x="14" y="122" width="120" height="9" rx="4" fill="#2A2532"/><text x="14" y="156" fill="#141A2B" font-size="14" font-weight="700">$39</text><text x="150" y="156" fill="#C09A3A" font-size="10">★ 4.9</text><rect x="14" y="164" width="168" height="0"/></g>
+    <g transform="translate(262 268)"><rect width="196" height="180" rx="12" fill="#fff" stroke="#EDE4D2"/><rect x="14" y="14" width="168" height="96" rx="8" fill="#FDF1D2"/><rect x="72" y="30" width="52" height="60" rx="8" fill="#F5B301"/><rect x="14" y="122" width="140" height="9" rx="4" fill="#2A2532"/><text x="14" y="156" fill="#141A2B" font-size="14" font-weight="700">$54</text><text x="150" y="156" fill="#C09A3A" font-size="10">★ 4.8</text></g>
+    <g transform="translate(484 268)"><rect width="196" height="180" rx="12" fill="#fff" stroke="#EDE4D2"/><rect x="14" y="14" width="168" height="96" rx="8" fill="#FDF1D2"/><path d="M98 34 l26 46 h-52 z" fill="#F5B301"/><rect x="14" y="122" width="108" height="9" rx="4" fill="#2A2532"/><text x="14" y="156" fill="#141A2B" font-size="14" font-weight="700">$28</text><text x="150" y="156" fill="#C09A3A" font-size="10">★ 5.0</text></g>
+  </g>
+</svg>

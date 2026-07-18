@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Article cover: Core Web Vitals explained">
+  <defs>
+    <linearGradient id="cwv-a" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2FD6A0"/><stop offset="1" stop-color="#2FD6A0"/></linearGradient>
+    <radialGradient id="cwv-g" cx="0.2" cy="0.2" r="0.8"><stop offset="0" stop-color="#12B886" stop-opacity="0.35"/><stop offset="1" stop-color="#12B886" stop-opacity="0"/></radialGradient>
+    <pattern id="cwv-d" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.5" fill="#fff" opacity="0.05"/></pattern>
+  </defs>
+  <rect width="640" height="360" fill="#141418"/>
+  <rect width="640" height="360" fill="url(#cwv-d)"/>
+  <rect width="640" height="360" fill="url(#cwv-g)"/>
+  <text x="40" y="60" fill="#5CEBC0" font-family="system-ui, sans-serif" font-size="14" letter-spacing="3">TECHNICAL SEO</text>
+  <!-- three metric rings -->
+  <g font-family="system-ui, sans-serif" text-anchor="middle">
+    <g transform="translate(150 210)">
+      <circle r="58" fill="none" stroke="#2A2A33" stroke-width="12"/>
+      <circle r="58" fill="none" stroke="#2FD6A0" stroke-width="12" stroke-linecap="round" stroke-dasharray="364" stroke-dashoffset="70" transform="rotate(-90)"/>
+      <text y="-2" fill="#F7F7F8" font-size="26" font-weight="800">LCP</text><text y="22" fill="#9A9AA7" font-size="13">1.9s</text>
+    </g>
+    <g transform="translate(320 210)">
+      <circle r="58" fill="none" stroke="#2A2A33" stroke-width="12"/>
+      <circle r="58" fill="none" stroke="url(#cwv-a)" stroke-width="12" stroke-linecap="round" stroke-dasharray="364" stroke-dashoffset="40" transform="rotate(-90)"/>
+      <text y="-2" fill="#F7F7F8" font-size="26" font-weight="800">INP</text><text y="22" fill="#9A9AA7" font-size="13">120ms</text>
+    </g>
+    <g transform="translate(490 210)">
+      <circle r="58" fill="none" stroke="#2A2A33" stroke-width="12"/>
+      <circle r="58" fill="none" stroke="#2FD6A0" stroke-width="12" stroke-linecap="round" stroke-dasharray="364" stroke-dashoffset="30" transform="rotate(-90)"/>
+      <text y="-2" fill="#F7F7F8" font-size="26" font-weight="800">CLS</text><text y="22" fill="#9A9AA7" font-size="13">0.02</text>
+    </g>
+  </g>
+</svg>

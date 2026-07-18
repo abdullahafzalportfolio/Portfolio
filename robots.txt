@@ -1,0 +1,6 @@
+# robots.txt — Abdullah Afzal
+# NOTE: update the Sitemap URL below once the final domain is live.
+User-agent: *
+Allow: /
+
+Sitemap: https://www.abdullahafzal.com/sitemap.xml

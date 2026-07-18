@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Article cover: speeding up a Shopify store">
+  <defs>
+    <linearGradient id="sp-a" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2FD6A0"/><stop offset="1" stop-color="#2FD6A0"/></linearGradient>
+    <radialGradient id="sp-g" cx="0.7" cy="0.2" r="0.8"><stop offset="0" stop-color="#12B886" stop-opacity="0.4"/><stop offset="1" stop-color="#12B886" stop-opacity="0"/></radialGradient>
+    <pattern id="sp-d" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.5" fill="#fff" opacity="0.05"/></pattern>
+  </defs>
+  <rect width="640" height="360" fill="#141418"/>
+  <rect width="640" height="360" fill="url(#sp-d)"/>
+  <rect width="640" height="360" fill="url(#sp-g)"/>
+  <!-- gauge -->
+  <g transform="translate(320 200)">
+    <path d="M-110 0 A110 110 0 0 1 110 0" fill="none" stroke="#2A2A33" stroke-width="18" stroke-linecap="round"/>
+    <path d="M-110 0 A110 110 0 0 1 78 -78" fill="none" stroke="url(#sp-a)" stroke-width="18" stroke-linecap="round"/>
+    <line x1="0" y1="0" x2="62" y2="-56" stroke="#F7F7F8" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="0" cy="0" r="10" fill="#F7F7F8"/>
+    <text x="0" y="46" text-anchor="middle" fill="#F7F7F8" font-family="system-ui, sans-serif" font-size="30" font-weight="800">1.8s</text>
+  </g>
+  <text x="40" y="60" fill="#5CEBC0" font-family="system-ui, sans-serif" font-size="14" letter-spacing="3">SHOPIFY · SPEED</text>
+  <text x="40" y="330" fill="#9A9AA7" font-family="system-ui, sans-serif" font-size="14">Core Web Vitals, done right</text>
+</svg>

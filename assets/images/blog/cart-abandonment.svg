@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Article cover: reducing cart abandonment">
+  <defs>
+    <linearGradient id="ca-a" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2FD6A0"/><stop offset="1" stop-color="#2FD6A0"/></linearGradient>
+    <radialGradient id="ca-g" cx="0.7" cy="0.7" r="0.8"><stop offset="0" stop-color="#12B886" stop-opacity="0.35"/><stop offset="1" stop-color="#12B886" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="640" height="360" fill="#141418"/>
+  <rect width="640" height="360" fill="url(#ca-g)"/>
+  <text x="40" y="56" fill="#5CEBC0" font-family="system-ui, sans-serif" font-size="14" letter-spacing="3">ECOMMERCE · CRO</text>
+  <!-- cart -->
+  <g transform="translate(300 170)" stroke="url(#ca-a)" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-90 -70 h34 l26 118 h130 l24 -84 h-150"/>
+    <circle cx="10" cy="86" r="14" fill="#141418"/>
+    <circle cx="120" cy="86" r="14" fill="#141418"/>
+  </g>
+  <!-- upward funnel arrow -->
+  <g transform="translate(470 120)">
+    <path d="M0 90 L0 20 M-22 42 L0 20 L22 42" stroke="#2FD6A0" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="40" y="330" fill="#9A9AA7" font-family="system-ui, sans-serif" font-size="14">Recover revenue at the last step</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Generic client avatar placeholder">
+  <defs>
+    <linearGradient id="a1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2FD6A0"/><stop offset="1" stop-color="#12B886"/>
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="60" fill="#1E1E24"/>
+  <circle cx="60" cy="60" r="60" fill="url(#a1)" opacity="0.18"/>
+  <circle cx="60" cy="48" r="20" fill="url(#a1)"/>
+  <path d="M24 104 C24 80 40 70 60 70 C80 70 96 80 96 104 Z" fill="url(#a1)"/>
+</svg>
