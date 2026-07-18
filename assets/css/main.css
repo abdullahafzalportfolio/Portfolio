@@ -2710,3 +2710,6 @@ body.show-fab .c-whatsapp-fab { opacity: 1; transform: none; }
 @media (max-width: 480px) {
   .c-whatsapp-fab__label { display: none; }
 }
+
+/* Web Design icon (browser/layout glyph) */
+.c-icon--web-design{ --i: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Crect x='3' y='4' width='18' height='16' rx='2'/%3E%3Cpath d='M3 9h18'/%3E%3Cpath d='M9 9v11'/%3E%3C/svg%3E"); }

@@ -6,7 +6,7 @@
      • HTML pages — network-first with cache fallback (always fresh when online).
    Bump CACHE_VERSION whenever you change cached assets to force an update.
    ========================================================================== */
-const CACHE_VERSION = "aa-v6";
+const CACHE_VERSION = "aa-v7";
 const PRECACHE = [
   "./",
   "./index.html",
